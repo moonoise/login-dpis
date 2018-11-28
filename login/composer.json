@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Dpis\\":"src",
+            "DpisLogin\\":"src"
+        }
+    }
+}

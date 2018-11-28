@@ -1,0 +1,46 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "bootstrap-social": "5.1.1",
+    "datatables": "1.10.18",
+    "datatables.net": "1.10.19",
+    "datatables.net-plugins": "1.10.18",
+    "datatables.net-responsive": "2.2.3",
+    "eve-raphael": "0.5.0",
+    "flot": "0.8.0-alpha",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1",
+    "jquery.flot.tooltip": "0.9.0",
+    "metismenu": "3.0.3",
+    "morris.js06": "0.6.3",
+    "raphael": "2.2.7",
+    "underscore": "1.4.4"
+  },
+  "name": "login-dpis-public",
+  "version": "1.0.0",
+  "description": "Login dpis by Royal Irrigation Department.",
+  "main": "index.php",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "APISAK KAITNONG",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonoise/login-dpis.git"
+  },
+  "keywords": [
+    "login",
+    "dpis",
+    "rid",
+    "กรมชลประทาน",
+    "กพ"
+  ],
+  "bugs": {
+    "url": "https://github.com/moonoise/login-dpis/issues"
+  },
+  "homepage": "https://github.com/moonoise/login-dpis#readme"
+}
