@@ -5,7 +5,7 @@
 https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html 
 
 <br>
-<code>$ git clone https://github.com/moonoise/login-dpis.git </code>
+<code>$ git clone https://github.com/moonoise/login-dpis.git  as 'namedir'</code> 
 
 <code>$ npm install </code>
 
