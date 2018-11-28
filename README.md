@@ -6,7 +6,9 @@ https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
 
 <br>
 <code>$ git clone https://github.com/moonoise/login-dpis.git  'namedir'</code> 
-
+<br>
+<code>$ cd namedir </code>
+<br>
 <code>$ npm install </code>
 
 <h5>ไฟล์ logindpis.sql สร้าง database </h5>
