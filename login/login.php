@@ -23,7 +23,7 @@ if (isset($_SESSION[__USERNAME__])) {
      <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="../node_modules/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+    <link href="../node_modules/metismenu/dist/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="../assets/css/sb-admin-2.css" rel="stylesheet">
@@ -60,14 +60,15 @@ if (isset($_SESSION[__USERNAME__])) {
                                 <button class="btn btn-info submit" name="Submit" id="submit">เข้าสู่ระบบ</button>
                             </fieldset>
                         </form>
+                        <div id="message"></div>
+                        <div class="clearfix"></div>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div id="message"></div>
-    <div class="clearfix"></div>
-
+    
      <!-- jQuery -->
      <script src="../node_modules/jquery/dist/jquery.min.js"></script>
 
@@ -75,7 +76,7 @@ if (isset($_SESSION[__USERNAME__])) {
 <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
 <!-- Metis Menu Plugin JavaScript -->
-<script src="../node_modules/metisMenu/dist/metisMenu.min.js"></script>
+<script src="../node_modules/metismenu/dist/metisMenu.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="../assets/js/sb-admin-2.js"></script>

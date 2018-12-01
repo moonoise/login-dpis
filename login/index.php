@@ -28,7 +28,7 @@ include_once "login-head.php";
     <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="../node_modules/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+    <link href="../node_modules/metismenu/dist/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="../assets/css/sb-admin-2.css" rel="stylesheet">
@@ -172,7 +172,7 @@ include_once "login-head.php";
     <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
-    <script src="../node_modules/metisMenu/dist/metisMenu.min.js"></script>
+    <script src="../node_modules/metismenu/dist/metisMenu.min.js"></script>
 
     <!-- Morris Charts JavaScript -->
     <script src="../node_modules/raphael/raphael.min.js"></script>
