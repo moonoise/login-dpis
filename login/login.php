@@ -40,7 +40,7 @@ if (isset($_SESSION[__USERNAME__])) {
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title">User PASSWORD ด้วยกันกับระบบ DPIS</h3>
+                        <h4 class="panel-title">USER AND PASSWORD <small>same to dpis system. <small></h4>
                     </div>
                     <div class="panel-body">
                         <form role="form" class="form-signin" name="form1" method="post" >
@@ -57,7 +57,7 @@ if (isset($_SESSION[__USERNAME__])) {
                                     </label>
                                 </div> -->
                                 <!-- Change this to a button or input when using this as a form -->
-                                <button class="btn btn-info submit" name="Submit" id="submit">เข้าสู่ระบบ</button>
+                                <button class="btn btn-info submit" name="Submit" id="submit">Login</button>
                             </fieldset>
                         </form>
                         <div id="message"></div>
