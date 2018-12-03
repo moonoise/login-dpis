@@ -21,7 +21,7 @@ $(document).ready(function () {
                        $("#message").html(html.success);
                         return html.username;
                     } else {
-                        $("#message").html(html.USERNAME+" is fail.");
+                        $("#message").html(html.msg);
                     }
                 },
                 error: function (textStatus, errorThrown) {
