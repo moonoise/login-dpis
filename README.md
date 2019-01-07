@@ -32,5 +32,8 @@ Technologies used
   PHP version =< 5.6  
     pdo_mysql  extension required
     MySQL or MariaDB
+    pdo_oci8 
     
+<p>แนะนำให้ใช้ xampp  ครับ  เพราะ config oci8 ได้ง่าย  </p>
+
     
