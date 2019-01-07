@@ -34,6 +34,6 @@ https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
 <p> MySQL or MariaDB </p>
 <p> pdo_oci8 </p>
     
-<p>แนะนำให้ใช้ xampp  ครับ  เพราะ config oci8 ได้ง่าย  </p>
+<p>แนะนำให้ใช้ xampp for mac,linux  ครับ เพราะ config oci8 ได้ง่าย  </p>
 
     
