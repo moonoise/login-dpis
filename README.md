@@ -28,11 +28,11 @@ https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
 
 <p>ใครมีสามารถ Login เข้าใด้ให้ใส่ user ไว้ใน members </p>
 
-Technologies used
-  PHP version =< 5.6  
-    pdo_mysql  extension required
-    MySQL or MariaDB
-    pdo_oci8 
+<p> Technologies used </p>
+<p> PHP version =< 5.6   </p>
+<p> pdo_mysql  extension required </p>
+<p> MySQL or MariaDB </p>
+<p> pdo_oci8 </p>
     
 <p>แนะนำให้ใช้ xampp  ครับ  เพราะ config oci8 ได้ง่าย  </p>
 
